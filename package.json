@@ -1,0 +1,16 @@
+{
+  "name": "tcp-server-basics",
+  "version": "0.0.1",
+  "description": "TCP Server basics",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fran Lopez",
+  "license": "MIT",
+  "dependencies": {
+    "json-socket": "^0.1.2",
+    "log4js": "^0.6.38",
+    "q": "^1.4.1"
+  }
+}
